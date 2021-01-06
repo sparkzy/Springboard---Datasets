@@ -74,10 +74,10 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <!-- <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
 
@@ -95,6 +95,10 @@ Datasets were searched for an examined based on the following criteria:
 * **Driver POV**: Images in the dataset should appear as though the camera was in the position of a driver looking through the front windshield. 
 * **Sequential images or videos**: Images should come in groups that are close together in time to form a short video from them, or the dataset can contain videos.
 * **Sufficient number of images**: A large number of data points are required.
+
+Datasets:
+* **KITTI**: https://www.kaggle.com/twaldo/kitti-object-detection <- use to develope piepline
+* **Nvidia Self Driving Cars**: https://www.kaggle.com/roydatascience/test-set-self-driving-cars <- can use for testing
 <!-- ### Built With
 
 * []()
